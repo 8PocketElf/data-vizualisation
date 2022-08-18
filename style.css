@@ -5,5 +5,10 @@
 
 html{
     font: system-ui, sans-serif;
-    
+
+}
+
+body{
+    max-width: 800px;
+    margin: 0 auto;
 }
