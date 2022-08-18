@@ -2,3 +2,8 @@
     box-sizing: border-box;
     outline: 1px solid red;
 }
+
+html{
+    font: system-ui, sans-serif;
+    
+}
