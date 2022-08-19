@@ -8,16 +8,28 @@ html{
 }
 
 body{
-    max-width: 800px;
-    margin: 1000 auto;
+    padding: 10px;
+    max-width: 40rem;
+    margin: 0 auto;
 }
-header, footer {
-    margin-top: 60px;
-    margin-bottom: 30px;
+header {
+    padding: 5px 0;
     text-align: center;
+    background-color: black;
+    color: white;
+    max-width: 40rem;
+   
 }
 nav{
  display: flex;
  justify-content: center;
  gap: 20px;
+}
+nav > a{
+    color: white;
+}
+
+main{
+    max-width: 80ch;
+    margin: :0 auto;
 }
