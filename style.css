@@ -9,7 +9,7 @@ html{
 
 body{
     max-width: 800px;
-    margin: 100 auto;
+    margin: auto;
 }
 header, footer {
     margin-top: 60px;
